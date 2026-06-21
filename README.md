@@ -1,1 +1,1 @@
-Meus primeiros programas em Python - tabuada e outros exercícios
+Meus primeiros programas em Python - tabuada 
